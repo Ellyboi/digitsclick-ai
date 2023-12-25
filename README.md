@@ -1,4 +1,4 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
 
 
 <img width="948" alt="Screenshot 2023-12-25 095337" src="https://github.com/Ellyboi/digitsclick-ai/assets/70116262/13e62403-8180-4864-b1f6-37303b5c7f4e">
@@ -37,7 +37,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
+git clone https://github.com/Ellyboi/digitsclick-ai.git
 ```
 
 ### Install packages
